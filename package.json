@@ -1,0 +1,17 @@
+{
+  "name": "@altipla/browser-cookies-module",
+  "version": "0.0.0",
+  "description": "NPM package browser-cookies re-exposed as a ES6 module for vite.",
+  "main": "index.js",
+  "module": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altipla-consulting/browser-cookies-module.git"
+  },
+  "author": "Altipla Consulting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altipla-consulting/browser-cookies-module/issues"
+  },
+  "homepage": "https://github.com/altipla-consulting/browser-cookies-module#readme"
+}
