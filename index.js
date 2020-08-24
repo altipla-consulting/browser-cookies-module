@@ -65,7 +65,8 @@ export function erase(name, options) {
     expires:  -1,
     domain:   options && options.domain,
     path:     options && options.path,
-    secure:   0,
+    secure:   options && options.secure,
+    samesite: options && options.samesite,
     httponly: 0}
   );
 }
