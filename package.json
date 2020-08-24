@@ -1,6 +1,6 @@
 {
   "name": "@altipla/browser-cookies-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package browser-cookies re-exposed as a ES6 module for vite.",
   "main": "index.js",
   "module": "index.js",
